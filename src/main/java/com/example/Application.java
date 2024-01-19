@@ -18,7 +18,7 @@ public class Application {
     public void init()
     {
         Logger log = LoggerFactory.getLogger(Application.class);
-        log.info("Java app started now");
+        log.info("Java app started now from siham's branch called new_feature");
     }
 
     public String getStatus() {
